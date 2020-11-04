@@ -1,0 +1,7 @@
+1, Ngoại lệ( Exception) là gì
+
+hết video 3
+2:54 video 2
+4:00 video 1
+
+2, Tại sao ta phải xử lý ngoại lệ (Exception Handling)
